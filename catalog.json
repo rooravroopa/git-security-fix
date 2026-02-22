@@ -32,6 +32,20 @@
   "clothing": {
     "count": 4,
     "inventoryValue": 207275.29
-  }
+  },
+    "books": {
+    "count": 3,
+    "inventoryValue": 26146.89
+  },
+    "home": {
+    "count": 3,
+    "inventoryValue": 70225.86
+  },
+   "total": {
+    "count": 15,
+    "inventoryValue": 403943.91
+  },
+   "averagePrice": 269.29,
+   "averageRating": 2.9
 }
 }
