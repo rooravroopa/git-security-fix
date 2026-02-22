@@ -21,9 +21,13 @@
     {"id":"prod-63bebf1b-015","name":"Basic Item 15","category":"clothing","price":381.15,"stock":136,"rating":2.5}
   ],
   "aggregations": {
-    "sports": {
-      "count": 1,
-      "inventoryValue": 34271.02
-    }
+  "sports": {
+    "count": 1,
+    "inventoryValue": 34271.02
+  },
+  "electronics": {
+    "count": 4,
+    "inventoryValue": 125503.74
   }
+}
 }
